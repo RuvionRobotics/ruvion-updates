@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Initial release",
+  "pub_date": "2026-02-18T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.1.0/ruvion-admin-center.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGJ6R1c0U0JEZVVLYUR2UmhaYlc5Z1Y0SDBmUlVVSnYwSjVoZEw2N1Bac1dwUVBNSTdxYlk2bVFEZVkyUHRzUUt3TnlQckxoMjIvZWh3V3ZvdURZQWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzc3MDcwCWZpbGU6cnV2aW9uLWFkbWluLWNlbnRlci5hcHAudGFyLmd6CkpTNWQ0TE04cS9yTmZnMUlsN3AwVTBWSFJEOEtuazBZWklVTWpaU0VXTElaSVVubXY2TjMxeVphZ2wxVjdCNnl0MHFpZ2VHOEY3dTJKV0psY0QzM0NBPT0K"
+    }
+  }
+}
