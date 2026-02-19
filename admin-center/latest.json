@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Changed look",
-  "pub_date": "2026-02-19T01:00:00Z",
+  "version": "0.1.4",
+  "notes": "Release 0.1.4",
+  "pub_date": "2026-02-19T01:08:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.1.3/Ruvion.Admin.Center.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGQ5M2F4azhRVWt3WHRGZmNSd2U5RGNrVUZDQ2llcXZRdnZLWVBJMllPY0g4dEhuRjVzWnFScVFUaHFTZzQwWVFiOFVMdUc2T0xGTGF5QVF6NUpkd0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDYyMjY0CWZpbGU6UnV2aW9uLkFkbWluLkNlbnRlci5hcHAudGFyLmd6Ci8zOVRQVmZQalZxM05jek84czZxSW9QVGdRRjcxNGI0bjBlM1BiN1dFYUhRb09KeTU4bkRYemI0K0sxcDdOTHVkWW92Lys2ZW1GSEtaSzcvMmZvQUFRPT0K"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.1.4/Ruvion.Admin.Center.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGRza3U0VmdzcEtDVVRHYmtCaDN4RzZQbmpJTHVMYzV2V29OR1JnL1pBNi9Ub2NJd2FCTUtDV0xXYjZBOXJjOVZvZkQyZmFEdmowWFhubGIzMDMzNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDYzMzM5CWZpbGU6UnV2aW9uLkFkbWluLkNlbnRlci5hcHAudGFyLmd6ClpnQTRPaThkUS9rSm8xb0pRSUhBTzd6MCsrNHJBNm5QaHYrNW9OK2htTkF6dkVud1h2S1dSZkxJN29BZTZQSkc3VHNwaDNsRjNlU0lBVVhhSlFmREFnPT0K"
     }
   }
 }
