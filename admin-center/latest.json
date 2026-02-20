@@ -1,11 +1,15 @@
 {
-  "version": "0.1.4",
-  "notes": "Release 0.1.4",
-  "pub_date": "2026-02-19T01:08:59Z",
+  "version": "0.1.5",
+  "notes": "Release 0.1.5",
+  "pub_date": "2026-02-20T22:37:53Z",
   "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.1.5/Ruvion.Admin.Center_0.1.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFFqTVJzbXc3ei93aXVmcG16THlsQkZrek4xQ1gyM3dYT3YyZTVpcVJGbTA4TmVRaWNDN3JEcitRTHpqV3hSZFYzd25GSUFqbDkxckpIb2JBT1NmQndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjI3MDczCWZpbGU6UnV2aW9uLkFkbWluLkNlbnRlcl8wLjEuNV94NjQtc2V0dXAuZXhlCmZDTTA1SHIrQ1RQYnhRZTZZdE5oQ295ZTVUdEFOTDQxMTZ0UTQ1TUw4MDBlOGt0MC9IRGNMUEpJTUhkd29EK0NrRTNMTm9EYUh1TEpDN3k4N0dhZENRPT0K"
+    },
     "darwin-aarch64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.1.4/Ruvion.Admin.Center.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGRza3U0VmdzcEtDVVRHYmtCaDN4RzZQbmpJTHVMYzV2V29OR1JnL1pBNi9Ub2NJd2FCTUtDV0xXYjZBOXJjOVZvZkQyZmFEdmowWFhubGIzMDMzNGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNDYzMzM5CWZpbGU6UnV2aW9uLkFkbWluLkNlbnRlci5hcHAudGFyLmd6ClpnQTRPaThkUS9rSm8xb0pRSUhBTzd6MCsrNHJBNm5QaHYrNW9OK2htTkF6dkVud1h2S1dSZkxJN29BZTZQSkc3VHNwaDNsRjNlU0lBVVhhSlFmREFnPT0K"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.1.5/Ruvion.Admin.Center.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFQ2aUdrVXRQVVRmNTVMSG41VkZxLzJnYXNVbEVJcTk5V3lsa3ljODFtK1hvOHA2S1cvc1FtWTNGa1p3ODB2SnNoWG1yak9iejFhOHdFdlJoNVpMeGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNjI3MjM3CWZpbGU6UnV2aW9uLkFkbWluLkNlbnRlci5hcHAudGFyLmd6CjgyRmM4bmZuOGVqUllnRDllRFEzUnRzeS9Ec0VBOXVGbjRQQ3BXUzE3OE9ZWEE0VHhhcDRIMHpXRzRvVXNzaTRKRmxldGMxRG1RQmx1UUR3cmVFaUNBPT0K"
     }
   }
 }
