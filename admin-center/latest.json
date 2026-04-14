@@ -1,20 +1,19 @@
 {
-  "version": "0.2.1",
-  "notes": "Release 0.2.1",
-  "pub_date": "2026-04-14T15:07:33Z",
+  "version": "0.2.2",
+  "notes": "Release 0.2.2",
+  "pub_date": "2026-04-14T16:45:07Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.1/Ruvion.Admin.Center.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFN4ZndBU0dzVW5ZTWo0VmpTY3dsK3RreDhyZ2RYMTBiazFRamxxcEdIOXUrM3dtOVJtZG1VaFFYWHZydlNLOHorenNQRVc5bkpWemFmTTIwL0Q0endvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4NjA4CWZpbGU6UnV2aW9uIEFkbWluIENlbnRlci5hcHAudGFyLmd6CnpJWWN4SmFlVVNCSnZFMmpCNCtETkxNNlp1RWJaS3BmMDd4c3dJZjJvWFFOUCtZZkVOc2pQbEhCYXQzc2NuSjNLRUc4bFpaKzl3cU8xQ3JiODMwN0FBPT0K"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.2/Ruvion.Admin.Center_0.2.2.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFY2ZFk5c3hXUDRyMldwSm14bmZ2Mk1sajBrU2tGZGVzQXJ6UzRjakpVanphK3JGelZlMTRMUlRkRjFTV1RCY2dzUldoWlB3Rjgwb1pTTk5uUTlkL3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTg0MzkzCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlci5hcHAudGFyLmd6Ckp0Q3lyNW1QZjFnaHVrTVB5c0JRQ29jd2NqVTZYb2pCeXNmbzFJeCsrdEo3TFZOYm53WWVoNGpSTDA3dS8yVUZDN09jQUordGh4VUpvczAyYkxqYURRPT0K"
     },
     "linux-x86_64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.1/Ruvion.Admin.Center_0.2.1_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGVMK1ZkZDluczJIQ1pSMnVVMEtwb3BBbmVpNGJtV1FON3BIa0ZGRlNlQjQxd0NEN3VvN0ZZRXRJNWV0eFp4VDAxYlhpQlRjY2kwTnlTU0p3bnpicXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4OTgxCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuMV9hbWQ2NC5BcHBJbWFnZQp6eGxJK1dOWWp1enRTc2FkUnBDNmhqYk1WNVZQLzlCVlYxQ1laYWRqL2pQUVBsTW1GWWpoZ3ZIdjJQT2lDYVdvTjVnN002M211QjNiTlN4YjFBbC9Bdz09Cg==",
-      "deb_url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.1/ruvion-admin-center_0.2.1_amd64.deb"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.2/Ruvion.Admin.Center_0.2.2_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFNPRVJvdXlRZS9jNGJXak5BNk1lZXU5Q3dJaGJIUXAweUF2YXNSd2dKZEZuQndMcUNwczNJWUxHbmVGY2txTjNUYU5Wd1N5ZjVrOU9hbDBGdU1IZlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTg0NjExCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuMl9hbWQ2NC5BcHBJbWFnZQpkbGxzU09Bb2NYaytTK08vNTZ0RVF0YVozMzlSSk15cWt4NEsxK1VpKzZoUXFUZUhndld4bk9kc1pxRzFOaHlTVTJlUzNRMHFubWxxRDRwaUJUdGNDUT09Cg=="
     },
     "windows-x86_64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.1/Ruvion.Admin.Center_0.2.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFFmdHg2eFBLbldaTm9XaTNQa1hJZ1VBSU1qMFBIQ1Z1czMvUXM3SjBCQnpVYVJUOUQ0YTRobFNqbnpQdm8yVUpSMnRKQ1l4L2VsR1lWa0tXOUs0aFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc5MDY2CWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuMV94NjQtc2V0dXAuZXhlCm50Skh3RW43NHVQWStBMlNkOGxrYms0SVd5bytLanNibmdFWWZJTmdBaVgraCtZUlVpQTJMZ3NiaG1JbVF6V1JMS2lwcmxtY05QOWhpS2xWbk4rNENnPT0K"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.2/Ruvion.Admin.Center_0.2.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGVLM2FobU9EUXB5c1IwMlFxVm53andVTi9WTHZ3cmhpQVB4OUZ5RDFOcDJCMGMvekN3a0Zhbi9jZ2dFSEcrUEl5dW56M1Z2MEM1VWlvaU9VUUI5ZHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTg0OTY1CWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuMl94NjQtc2V0dXAuZXhlCm4wSlloV0NJQ0l3VU5ESE5HTmU1cERMQjcyVzdNenF4ekJIWFZuSHliUFVYUmtsNUhpK1ZkNWlVTWlqOHE2Y2lpbVBEcUZwWU9ZQ2RSQzNLL3FnQURnPT0K"
     }
   }
 }
