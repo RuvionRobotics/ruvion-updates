@@ -1,20 +1,20 @@
 {
-  "version": "0.2.4",
-  "notes": "Release 0.2.4",
-  "pub_date": "2026-04-15T16:36:18Z",
+  "version": "0.2.5",
+  "notes": "Release 0.2.5",
+  "pub_date": "2026-04-15T17:13:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGFnclBZYXFVTGtxTmFQV2JwOGp6N2k4N21aYjNWaFJEUEtrVWw3Qlp1bW1SczBXTFZuM1RFMXYrT3krYllYek8zYkRVUisyb0xuLzQ4M0c0QVhIVUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjY5OTcyCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlci5hcHAudGFyLmd6CmFSU2tZK1ZEdDZod01lL0c3Qk43cVJtbjZjMUJRc2dGaWkvZitRTTRVNzA5anh6SW5xMjRUYUx4eXJCc2xKb2ZHY0oyVW95cjY2dHNCRVVEMG5LbkJBPT0K"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.5/Ruvion.Admin.Center_0.2.5.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNFZlakNZd25WQTh6TC9GY0xXMlg0NUVaOTFsYWVhMldQMWZHN25ITkVaWVN3N0N5Z0NOTzYzdTdPQmxNd2kwUmFxczRza01CUFN0TGVUNmN1MVRoSWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjcyNDg2CWZpbGU6UnV2aW9uIEFkbWluIENlbnRlci5hcHAudGFyLmd6CnkzMXhnMnhkZ3IyK3I1Y0VBU1hTME1SL2VzaDhxZWM3a1F2K0RXbm9VWEFKcG9URGFkWGFLd3piRkh4UitCbkRsdnpHZy9jV1ljZ2djY1hQU0p5NUFBPT0K"
     },
     "linux-x86_64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4_amd64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGNuYkdaQ24zQ2ZMV0RjcjErZi9hTTRtTStFei9rc0QycGs2QlY0TzNLekh0MXUrbElmWHRTb0d1Qlk4T2Rza2IvWW9VZ3JlZC9TNk1WaFYzQ2VNTlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjcwMzEyCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuNF9hbWQ2NC5BcHBJbWFnZQo2Sjg5byt4dU1wbnNmQ1J2Mkk0SlN4WGlCRVR4TXNUT0ZHMVI4Qml6WExlRFBlTng4S3kwOFBqM2swNXhYQWtHa0psQ2hNMWh2bDRBVWJCL2toYWlCdz09Cg==",
-      "deb_url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4_amd64.deb"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.5/Ruvion.Admin.Center_0.2.5_amd64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGFWYTNvcFVUN0dhMzlkVHM1S252RjFWQ1dDeWR0cVRMVGlvVVFWWDBRUE5SNWtpME9KS213cU5yR2VmQzdyZzBjYkl5RlRZR084aktoSy93NzNrY2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjcyOTM3CWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuNV9hbWQ2NC5BcHBJbWFnZQp2a252Rm5zSkFDT0RzUlJuY1NTN0owMmw4ZysyZnRuYWkwdUJsSjhiY2dZR0d0MGs5RmxXdVJLVVhYYjRicWNpYUpQcldmYkNPaXViZmUrWUhiQlZDQT09Cg==",
+      "deb_url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.5/Ruvion.Admin.Center_0.2.5_amd64.deb"
     },
     "windows-x86_64": {
-      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGRpV1ZnMGNOMjcydFpxeVhKVnBBZmE2bm11MEJwZnloN1ZONDdxbm9hZjVqejFMcys4MC9Qb2NKRTdvRTFmWm9YaVAvbW1vRzhiOUs4OWVZdVIyQ0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjcwNzQwCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuNF94NjQtc2V0dXAuZXhlClhmVENHL0hQRitkVzRDZ2l1TmUxV0ltV1NKajBkZnozckJTb0JuelZlcVZIN2hYVFZXS0Y5TGRvWmhDU0xaU3ZNQWNwbDJaaWV4YklzbFQxQzBVTEN3PT0K"
+      "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.5/Ruvion.Admin.Center_0.2.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGNHckovRGpFVElLUndyVmNqYm44Zjh0U2k3MkdrSFhEbmVoS2Nsd0xmY0FybXRMV01hUzhhT0RxRi9UVTVTZk9EYS8wdVBqOG1ERFFmSHZNYzNXSHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjczMDg3CWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuNV94NjQtc2V0dXAuZXhlCjlJY0grS05sdXBIVGFNblNzS0hLSCtHUTlXeEFqYWF3c0hCL0VkNzBKZWFrN3MxVng5MnpXekc5ejBqNXBJWHVRM045WVdGYUtGQ05nS0liTGM1UUN3PT0K"
     }
   }
 }
