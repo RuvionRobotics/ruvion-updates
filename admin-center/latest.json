@@ -10,7 +10,7 @@
     "linux-x86_64": {
       "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4_amd64.AppImage",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUSWVYZlVjWEkzNGNuYkdaQ24zQ2ZMV0RjcjErZi9hTTRtTStFei9rc0QycGs2QlY0TzNLekh0MXUrbElmWHRTb0d1Qlk4T2Rza2IvWW9VZ3JlZC9TNk1WaFYzQ2VNTlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjcwMzEyCWZpbGU6UnV2aW9uIEFkbWluIENlbnRlcl8wLjIuNF9hbWQ2NC5BcHBJbWFnZQo2Sjg5byt4dU1wbnNmQ1J2Mkk0SlN4WGlCRVR4TXNUT0ZHMVI4Qml6WExlRFBlTng4S3kwOFBqM2swNXhYQWtHa0psQ2hNMWh2bDRBVWJCL2toYWlCdz09Cg==",
-      "deb_url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion Admin Center_0.2.4_amd64.deb"
+      "deb_url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4_amd64.deb"
     },
     "windows-x86_64": {
       "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/admin-center-v0.2.4/Ruvion.Admin.Center_0.2.4_x64-setup.exe",
