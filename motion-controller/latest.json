@@ -1,6 +1,6 @@
 {
-  "version": "motion-controller-v0.0.15",
-  "pub_date": "2026-04-22T18:17:10Z",
-  "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/motion-controller-v0.0.15/motion-controller-v0.0.15.img.zst",
-  "sha256": "056ecad82b6460a8dec89508ea95c86e560ba20ca44003512ecdef7580e7b314"
+  "version": "motion-controller-v0.0.16",
+  "pub_date": "2026-04-22T18:31:51Z",
+  "url": "https://github.com/RuvionRobotics/ruvion-updates/releases/download/motion-controller-v0.0.16/motion-controller-v0.0.16.img.zst",
+  "sha256": "7b739f19520426fc522d40205210a605909cdc2327af91e196cfb16f4c704ba4"
 }
